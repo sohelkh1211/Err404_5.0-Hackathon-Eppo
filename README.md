@@ -7,3 +7,4 @@ At this point of time, the admin has access to all the details and has a lots of
 The admin has to check if the payment is done or not and then approve the appointment or else keep it as pending.
 The professional can check his/her appointment schedule.
 After the appointment client will be able to provide feedback to the professional which he can view and respond to.
+Developed by Sohel Khan, Sanket Jaiswar, Abrar Zombadker, Mohd Khalid Mansoori and Affan Khan
